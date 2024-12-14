@@ -1,4 +1,3 @@
-# MRNETViz-Project
 
 # MRVizNet: Immersive Network Visualization with Mixed Reality
 
