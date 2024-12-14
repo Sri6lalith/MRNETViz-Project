@@ -85,10 +85,14 @@ MRVizNet is a Unity-based immersive network visualization tool that leverages Mi
    ```bash
    python mqttsender.py
    ```
-2. Start the Unity scene.
-3. Verify that packets are visualized with the correct type, size, and IP addresses.
-4. Click on a packet to display its details. The UI should update accordingly.
-5. Ensure packets are destroyed after reaching their destination or upon interaction.
+   or
+    ```bash
+   python wifi_packet_capture.py
+   ```
+3. Start the Unity scene.
+4. Verify that packets are visualized with the correct type, size, and IP addresses.
+5. Click on a packet to display its details. The UI should update accordingly.
+6. Ensure packets are destroyed after reaching their destination or upon interaction.
 
 ---
 
@@ -109,7 +113,7 @@ MRVizNet Project
 |   └── AccessPointPrefabs
 |
 ├── Python Scripts
-|   └── mqttsender.py
+|   └── mqttsender.py or wifi_packet_capture.py
 |
 ├── Scene
 |   ├── Laptop
