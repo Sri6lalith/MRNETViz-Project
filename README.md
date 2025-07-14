@@ -1,7 +1,7 @@
 
 # MRVizNet: Immersive Network Visualization with Mixed Reality
 
-### Authors: Sri Nithya Anne, Sneha Sugilal, Govind Iyer
+### Authors: Sri Nithya Anne
 
 ## Project Overview
 
